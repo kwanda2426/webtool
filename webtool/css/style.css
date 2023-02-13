@@ -40,22 +40,15 @@ basic
 ---------------------------------------------------------------------*/
 /* share button area*/
 
-.share-button {
-    background-image: url("images/twitter.png");
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding-left: 40px; /* adjust as needed */
-}
 
-.share-button {
-    background-image: url("images/twitter.png");
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding-left: 40px; /* adjust as needed */
-}
 /*share button*/
 
-
+li.mwelase{
+    color: black;
+    list-style-type: square;
+    font-size: 20px;
+    font-weight: normal;
+}
 
 
 * {
