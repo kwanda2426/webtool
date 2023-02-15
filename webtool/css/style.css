@@ -74,11 +74,21 @@ p.contact_class{
 }
 /*Headings*/
 h2.nzima_headings{
-    color: #000000;
+    color: #111111;
     font-size: 40px;
     font-weight: bold;
 
 }
+/*resources*/
+li.resource_class{
+    color: #000000;
+    list-style-type: square;
+    font-size: 20px;
+    font-weight: normal;
+    margin-left: 40px;
+}
+
+
 
 
 
